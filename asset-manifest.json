@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lov/static/css/main.a46995bc.css",
+    "main.js": "/lov/static/js/main.4fc47a5a.js",
+    "index.html": "/lov/index.html",
+    "main.a46995bc.css.map": "/lov/static/css/main.a46995bc.css.map",
+    "main.4fc47a5a.js.map": "/lov/static/js/main.4fc47a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46995bc.css",
+    "static/js/main.4fc47a5a.js"
+  ]
+}
